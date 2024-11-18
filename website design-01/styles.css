@@ -1,0 +1,18 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#map {
+    height: 500px;
+    width: 100%;
+    margin: 20px 0;
+}
+
+select {
+    margin: 20px 0;
+    padding: 10px;
+    font-size: 16px;
+}
